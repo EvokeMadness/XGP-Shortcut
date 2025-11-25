@@ -1,7 +1,5 @@
 # XGP-Shortcut
 
-## Summary
-
 This app creates a shortcut on the Windows desktop for Xbox Game Pass games with an icon and launch arguments.
 
 This project uses [ImageMagick](https://imagemagick.org/) to convert the icon included in the game's install folder into an ICO file, and allows the user to add launch arguments to the game's executable before sending it to the Windows desktop.
