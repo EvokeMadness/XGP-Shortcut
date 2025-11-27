@@ -6,6 +6,6 @@ This project uses [ImageMagick](https://imagemagick.org/) to convert the icon in
 
 A few common arguments are provided in the drop-down, and can be selected and added to the arguments box. Arguments can also be manually typed into this box.
 
-# Preview
+# Previews
 
 ![](assets/preview.png)
